@@ -72,3 +72,4 @@ AIvirtualENV/
 *.pth
 *.safetensors
 AIvirtualENV/
+.env
