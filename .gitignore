@@ -73,3 +73,5 @@ AIvirtualENV/
 *.safetensors
 AIvirtualENV/
 .env
+AIvirtualENV
+.AIvirtualENV
