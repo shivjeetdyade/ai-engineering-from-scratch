@@ -74,6 +74,11 @@ book/_build/
 onix-git-key
 onix-git-key.pub
 
+# Local-only venv helpers (reminders to use .AIvirtualENV, not system python)
+venv.sh
+venv-activate.bat
+venv-activate.ps1
+
 # Machine translations are generated to a separate `translations` branch, never main.
 i18n/
 site/langs.js
